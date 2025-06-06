@@ -3,7 +3,7 @@
 🔹 Crafting full-stack web applications with MEAN/MERN stack  
 🔹 Passionate about clean code and efficient architectures  
 🔹 Skilled in JavaScript, Node.js, Express, MongoDB, Angular, and React  
-🔹 Projects include 'Uma Agro Industries' (B2B platform) and 'Enjoyway' (hotel booking website)  
+🔹 Projects include 'Enjoyway' (hotel booking website)  
 🔹 Always learning, building, and pushing my limits  
 
 💡 Interests: Scalable architectures, performance optimization, and seamless user experiences  
